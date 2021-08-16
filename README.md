@@ -1,6 +1,10 @@
 # coding_challenge_1
 
-A new Flutter project.
+## Aufgabe
+
+* Erstelle eine App in Flutter, die einen Button implementiert, der die Anzahl der Klicks auf sich als Text anzeigt (ein Stern, main Branch) 
+* Positioniere den Button in der Mitte des Bildschirms (zwei Sterne, Branch `zwei-sterne`)
+* Formatiere den Button so, dass er die komplette Breite des Bildschirms einnimmt (drei Sterne, Branch `drei-sterne`)
 
 ## Getting Started
 
