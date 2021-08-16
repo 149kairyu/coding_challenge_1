@@ -29,9 +29,11 @@ class _MainPageState extends State<MainPage> {
       appBar: AppBar(
         title: Text("Coding Challenge #1"),
       ),
-      body: ElevatedButton(
-        onPressed: _incrementCounter,
-        child: Text("$_counter mal gedrückt!"),
+      body: Center(
+        child: ElevatedButton(
+          onPressed: _incrementCounter,
+          child: Text("$_counter mal gedrückt!"),
+        ),
       ),
     );
   }
